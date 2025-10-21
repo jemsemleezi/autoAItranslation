@@ -1,0 +1,7 @@
+{
+  "ApiKey": "",
+  "Model": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+  "ApiUrl": "https://api.deepseek.com/v1/chat/completions",
+  "TargetLanguage": "zh-CN",
+  "LastSelectedPath": ""
+}
