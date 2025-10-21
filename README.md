@@ -1,1 +1,2 @@
 # autoAItranslation
+一个自用的自动AI翻译Rimworld环世界模组简介的小工具，需要自行修改config.json中的ApiKey、Model、ApiUrl才能使用
